@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Flinterpop
-- 👀 I’m interested in writing software that does not have run-time dependencies such as .net, MSCRT, any dlls.
+- 👋 Hi, I’m @Flinterpop (my now 31 year old son's toddler nickname).
+- 👀 I mostly write software test tools that help me test OEM software used by my employers.
+- From a bias point of view I prefer to write software that does not have many or any run-time dependencies on extra third party files such as .net, MSCRT, dlls, Qt.
 - 📫 How to reach me: via github
 
 <!---
