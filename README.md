@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flinterpop (my now 31 year old son's toddler nickname).
+- 👋 Hi, I’m @Flinterpop (my now 32 year old son's toddler nickname).
 - 👀 I mostly write software test tools that help me test OEM software used by my employers.
 - From a bias point of view I prefer to write software that does not have many or any run-time dependencies on extra third party files such as .net, MSCRT, dlls, Qt.
 - 📫 How to reach me: via github
